@@ -1,5 +1,7 @@
 # PathfinderX 🔍
 
+[![Live Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge&logo=vercel)](https://Jayvasoya1.github.io/PathfinderX/)
+
 **PathfinderX** is a React + Vite-based visualizer for exploring popular **pathfinding and maze generation algorithms**. It provides an intuitive interface for creating custom grids, generating mazes, and visualizing how different algorithms navigate through them.
 
 ---
